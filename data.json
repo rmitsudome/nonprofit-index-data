@@ -21452,23 +21452,1183 @@
       "source": "Meta Ads Library - donate",
       "jobCount": 47000,
       "weightedValue": 15.51
+    },
+    {
+      "timestamp": "4/26/2024",
+      "date": "2024-04-26",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 116,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "1/1/2025",
+      "date": "2025-01-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 12,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "1/21/2025",
+      "date": "2025-01-21",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 52,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "1/25/2025",
+      "date": "2025-01-25",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 171,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "1/31/2025",
+      "date": "2025-01-31",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 91,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/1/2025",
+      "date": "2025-02-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 2976,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/3/2025",
+      "date": "2025-02-03",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 82,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/5/2025",
+      "date": "2025-02-05",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 151,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/6/2025",
+      "date": "2025-02-06",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 20,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/7/2025",
+      "date": "2025-02-07",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 281,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/10/2025",
+      "date": "2025-02-10",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 244,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/11/2025",
+      "date": "2025-02-11",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 63,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/12/2025",
+      "date": "2025-02-12",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 115,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/14/2025",
+      "date": "2025-02-14",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 76,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/18/2025",
+      "date": "2025-02-18",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 61,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/24/2025",
+      "date": "2025-02-24",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 975,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/25/2025",
+      "date": "2025-02-25",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 86,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/27/2025",
+      "date": "2025-02-27",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 36,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2/28/2025",
+      "date": "2025-02-28",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 93,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/1/2025",
+      "date": "2025-03-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 1505,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/3/2025",
+      "date": "2025-03-03",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 38,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/6/2025",
+      "date": "2025-03-06",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 109,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/10/2025",
+      "date": "2025-03-10",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 213,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/11/2025",
+      "date": "2025-03-11",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 505,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/12/2025",
+      "date": "2025-03-12",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 7,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/13/2025",
+      "date": "2025-03-13",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 249,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/14/2025",
+      "date": "2025-03-14",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 8,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/17/2025",
+      "date": "2025-03-17",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 66,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/18/2025",
+      "date": "2025-03-18",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 63,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/21/2025",
+      "date": "2025-03-21",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 101,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/24/2025",
+      "date": "2025-03-24",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 112,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/25/2025",
+      "date": "2025-03-25",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 575,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/26/2025",
+      "date": "2025-03-26",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 243,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/27/2025",
+      "date": "2025-03-27",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 354,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/28/2025",
+      "date": "2025-03-28",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 237,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "3/31/2025",
+      "date": "2025-03-31",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 60,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "4/1/2025",
+      "date": "2025-04-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 396,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "4/2/2025",
+      "date": "2025-04-02",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 630,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "4/3/2025",
+      "date": "2025-04-03",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 12,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "4/4/2025",
+      "date": "2025-04-04",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 18,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "4/7/2025",
+      "date": "2025-04-07",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 548,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "4/8/2025",
+      "date": "2025-04-08",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 238,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "4/9/2025",
+      "date": "2025-04-09",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 404,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "4/14/2025",
+      "date": "2025-04-14",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 46,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "4/15/2025",
+      "date": "2025-04-15",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 31,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "4/16/2025",
+      "date": "2025-04-16",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 589,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2025-04-17 0:00:00",
+      "date": "2025-04-17",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 65,
+      "weightedValue": -0.195
+    },
+    {
+      "timestamp": "2025-04-17 0:00:00",
+      "date": "2025-04-17",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 478,
+      "weightedValue": -1.434
+    },
+    {
+      "timestamp": "2025-04-21 0:00:00",
+      "date": "2025-04-21",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 234,
+      "weightedValue": -0.702
+    },
+    {
+      "timestamp": "2025-04-21 0:00:00",
+      "date": "2025-04-21",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 40,
+      "weightedValue": -0.12
+    },
+    {
+      "timestamp": "2025-04-22 0:00:00",
+      "date": "2025-04-22",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 27,
+      "weightedValue": -0.081
+    },
+    {
+      "timestamp": "2025-04-22 0:00:00",
+      "date": "2025-04-22",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 46,
+      "weightedValue": -0.138
+    },
+    {
+      "timestamp": "2025-04-23 0:00:00",
+      "date": "2025-04-23",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 200,
+      "weightedValue": -0.6
+    },
+    {
+      "timestamp": "2025-04-25 0:00:00",
+      "date": "2025-04-25",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 226,
+      "weightedValue": -0.678
+    },
+    {
+      "timestamp": "2025-04-25 0:00:00",
+      "date": "2025-04-25",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 118,
+      "weightedValue": -0.354
+    },
+    {
+      "timestamp": "2025-04-26 0:00:00",
+      "date": "2025-04-26",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 116,
+      "weightedValue": -0.348
+    },
+    {
+      "timestamp": "2025-04-27 0:00:00",
+      "date": "2025-04-27",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 106,
+      "weightedValue": -0.318
+    },
+    {
+      "timestamp": "2025-04-28 0:00:00",
+      "date": "2025-04-28",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 19,
+      "weightedValue": -0.057
+    },
+    {
+      "timestamp": "2025-04-28 0:00:00",
+      "date": "2025-04-28",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 131,
+      "weightedValue": -0.393
+    },
+    {
+      "timestamp": "2025-04-28 0:00:00",
+      "date": "2025-04-28",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 175,
+      "weightedValue": -0.525
+    },
+    {
+      "timestamp": "2025-04-30 0:00:00",
+      "date": "2025-04-30",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 43,
+      "weightedValue": -0.129
+    },
+    {
+      "timestamp": "2025-04-30 0:00:00",
+      "date": "2025-04-30",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 52,
+      "weightedValue": -0.156
+    },
+    {
+      "timestamp": "2025-04-30 0:00:00",
+      "date": "2025-04-30",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 21,
+      "weightedValue": -0.063
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 109,
+      "weightedValue": -0.327
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 57,
+      "weightedValue": -0.171
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 244,
+      "weightedValue": -0.732
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 1,
+      "weightedValue": -0.003
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 3,
+      "weightedValue": -0.009
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 66,
+      "weightedValue": -0.198
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 180,
+      "weightedValue": -0.54
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 57,
+      "weightedValue": -0.171
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 175,
+      "weightedValue": -0.525
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 85,
+      "weightedValue": -0.255
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 70,
+      "weightedValue": -0.21
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 89,
+      "weightedValue": -0.267
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 36,
+      "weightedValue": -0.108
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 100,
+      "weightedValue": -0.3
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 117,
+      "weightedValue": -0.351
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 139,
+      "weightedValue": -0.417
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 66,
+      "weightedValue": -0.198
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 3,
+      "weightedValue": -0.009
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 131,
+      "weightedValue": -0.393
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 5,
+      "weightedValue": -0.015
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 32,
+      "weightedValue": -0.096
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 10,
+      "weightedValue": -0.03
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 55,
+      "weightedValue": -0.165
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 47,
+      "weightedValue": -0.141
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 51,
+      "weightedValue": -0.153
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 32,
+      "weightedValue": -0.096
+    },
+    {
+      "timestamp": "2025-05-02 0:00:00",
+      "date": "2025-05-02",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 285,
+      "weightedValue": -0.855
+    },
+    {
+      "timestamp": "2025-05-02 0:00:00",
+      "date": "2025-05-02",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 36,
+      "weightedValue": -0.108
+    },
+    {
+      "timestamp": "2025-05-02 0:00:00",
+      "date": "2025-05-02",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 115,
+      "weightedValue": -0.345
+    },
+    {
+      "timestamp": "2025-05-06 0:00:00",
+      "date": "2025-05-06",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 77,
+      "weightedValue": -0.231
+    },
+    {
+      "timestamp": "2025-05-08 0:00:00",
+      "date": "2025-05-08",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 20,
+      "weightedValue": -0.06
+    },
+    {
+      "timestamp": "2025-05-08 0:00:00",
+      "date": "2025-05-08",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 9,
+      "weightedValue": -0.027
+    },
+    {
+      "timestamp": "2025-05-08 0:00:00",
+      "date": "2025-05-08",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 48,
+      "weightedValue": -0.144
+    },
+    {
+      "timestamp": "2025-05-08 0:00:00",
+      "date": "2025-05-08",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 22,
+      "weightedValue": -0.066
+    },
+    {
+      "timestamp": "2025-05-08 0:00:00",
+      "date": "2025-05-08",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 50,
+      "weightedValue": -0.15
+    },
+    {
+      "timestamp": "2025-05-08 0:00:00",
+      "date": "2025-05-08",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 17,
+      "weightedValue": -0.051
+    },
+    {
+      "timestamp": "2025-05-12 0:00:00",
+      "date": "2025-05-12",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 3,
+      "weightedValue": -0.009
+    },
+    {
+      "timestamp": "2025-05-12 0:00:00",
+      "date": "2025-05-12",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 100,
+      "weightedValue": -0.3
+    },
+    {
+      "timestamp": "2025-05-16 0:00:00",
+      "date": "2025-05-16",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 47,
+      "weightedValue": -0.141
+    },
+    {
+      "timestamp": "2025-05-19 0:00:00",
+      "date": "2025-05-19",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 43,
+      "weightedValue": -0.129
+    },
+    {
+      "timestamp": "2025-05-19 0:00:00",
+      "date": "2025-05-19",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 5,
+      "weightedValue": -0.015
+    },
+    {
+      "timestamp": "2025-05-19 0:00:00",
+      "date": "2025-05-19",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 47,
+      "weightedValue": -0.141
+    },
+    {
+      "timestamp": "2025-05-21 0:00:00",
+      "date": "2025-05-21",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 302,
+      "weightedValue": -0.906
+    },
+    {
+      "timestamp": "2025-05-22 0:00:00",
+      "date": "2025-05-22",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 198,
+      "weightedValue": -0.594
+    },
+    {
+      "timestamp": "2025-05-28 0:00:00",
+      "date": "2025-05-28",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 118,
+      "weightedValue": -0.354
+    },
+    {
+      "timestamp": "2025-05-29 0:00:00",
+      "date": "2025-05-29",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 474,
+      "weightedValue": -1.422
+    },
+    {
+      "timestamp": "2025-05-29 0:00:00",
+      "date": "2025-05-29",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 65,
+      "weightedValue": -0.195
+    },
+    {
+      "timestamp": "2025-05-29 0:00:00",
+      "date": "2025-05-29",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 22,
+      "weightedValue": -0.066
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 9,
+      "weightedValue": -0.027
+    },
+    {
+      "timestamp": "2025-06-02 0:00:00",
+      "date": "2025-06-02",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 4,
+      "weightedValue": -0.012
+    },
+    {
+      "timestamp": "2025-06-03 0:00:00",
+      "date": "2025-06-03",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 55,
+      "weightedValue": -0.165
+    },
+    {
+      "timestamp": "2025-06-03 0:00:00",
+      "date": "2025-06-03",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 47,
+      "weightedValue": -0.141
+    },
+    {
+      "timestamp": "2025-06-03 0:00:00",
+      "date": "2025-06-03",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 115,
+      "weightedValue": -0.345
+    },
+    {
+      "timestamp": "2025-06-04 0:00:00",
+      "date": "2025-06-04",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 77,
+      "weightedValue": -0.231
+    },
+    {
+      "timestamp": "2025-06-05 0:00:00",
+      "date": "2025-06-05",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 116,
+      "weightedValue": -0.348
+    },
+    {
+      "timestamp": "2025-06-06 0:00:00",
+      "date": "2025-06-06",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 19,
+      "weightedValue": -0.057
+    },
+    {
+      "timestamp": "2025-06-07 0:00:00",
+      "date": "2025-06-07",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 35,
+      "weightedValue": -0.105
+    },
+    {
+      "timestamp": "2025-06-08 0:00:00",
+      "date": "2025-06-08",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 35,
+      "weightedValue": -0.105
+    },
+    {
+      "timestamp": "2025-06-09 0:00:00",
+      "date": "2025-06-09",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 240,
+      "weightedValue": -0.72
+    },
+    {
+      "timestamp": "2025-06-10 0:00:00",
+      "date": "2025-06-10",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 11,
+      "weightedValue": -0.033
+    },
+    {
+      "timestamp": "2025-06-11 0:00:00",
+      "date": "2025-06-11",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 6,
+      "weightedValue": -0.018
+    },
+    {
+      "timestamp": "2025-06-12 0:00:00",
+      "date": "2025-06-12",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 615,
+      "weightedValue": -1.845
+    },
+    {
+      "timestamp": "2025-06-13 0:00:00",
+      "date": "2025-06-13",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 336,
+      "weightedValue": -1.008
+    },
+    {
+      "timestamp": "2025-06-14 0:00:00",
+      "date": "2025-06-14",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 50,
+      "weightedValue": -0.15
+    },
+    {
+      "timestamp": "2025-06-15 0:00:00",
+      "date": "2025-06-15",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 115,
+      "weightedValue": -0.345
+    },
+    {
+      "timestamp": "2025-06-15 0:00:00",
+      "date": "2025-06-15",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 51,
+      "weightedValue": -0.153
+    },
+    {
+      "timestamp": "2025-07-01 0:00:00",
+      "date": "2025-07-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 83,
+      "weightedValue": -0.249
+    },
+    {
+      "timestamp": "2025-07-01 0:00:00",
+      "date": "2025-07-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 49,
+      "weightedValue": -0.147
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 32,
+      "weightedValue": -0.096
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 13,
+      "weightedValue": -0.039
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 3,
+      "weightedValue": -0.009
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 600,
+      "weightedValue": -1.8
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 7,
+      "weightedValue": -0.021
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 51,
+      "weightedValue": -0.153
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 40,
+      "weightedValue": -0.12
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 5,
+      "weightedValue": -0.015
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 20,
+      "weightedValue": -0.06
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 19,
+      "weightedValue": -0.057
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 51,
+      "weightedValue": -0.153
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 6,
+      "weightedValue": -0.018
+    },
+    {
+      "timestamp": "2025-06-01 0:00:00",
+      "date": "2025-06-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 315,
+      "weightedValue": -0.945
+    },
+    {
+      "timestamp": "2025-05-01 0:00:00",
+      "date": "2025-05-01",
+      "location": "United States",
+      "source": "Unemployment",
+      "jobCount": 9,
+      "weightedValue": -0.027
     }
   ],
   "scoreSummaries": [
     {
       "date": "2025-04-16",
       "dailyScore": 25.2871,
-      "weeklyScore": 128.16499,
-      "monthlyScore": 381.39018,
+      "weeklyScore": 126.53599,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-04-17",
-      "dailyScore": 25.58919,
-      "weeklyScore": 128.16499,
-      "monthlyScore": 381.39018,
+      "dailyScore": 23.96019,
+      "weeklyScore": 126.53599,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21476,8 +22636,8 @@
     {
       "date": "2025-04-18",
       "dailyScore": 26.0924,
-      "weeklyScore": 128.16499,
-      "monthlyScore": 381.39018,
+      "weeklyScore": 126.53599,
+      "monthlyScore": 375.09918,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -21485,8 +22645,8 @@
     {
       "date": "2025-04-19",
       "dailyScore": 26.76125,
-      "weeklyScore": 128.16499,
-      "monthlyScore": 381.39018,
+      "weeklyScore": 126.53599,
+      "monthlyScore": 375.09918,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -21494,35 +22654,35 @@
     {
       "date": "2025-04-20",
       "dailyScore": 24.43505,
-      "weeklyScore": 128.16499,
-      "monthlyScore": 381.39018,
+      "weeklyScore": 126.53599,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-04-21",
-      "dailyScore": 24.10769,
-      "weeklyScore": 177.606985,
-      "monthlyScore": 381.39018,
+      "dailyScore": 23.28569,
+      "weeklyScore": 174.267985,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-04-22",
-      "dailyScore": 25.04446,
-      "weeklyScore": 177.606985,
-      "monthlyScore": 381.39018,
+      "dailyScore": 24.82546,
+      "weeklyScore": 174.267985,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-04-23",
-      "dailyScore": 25.078705,
-      "weeklyScore": 177.606985,
-      "monthlyScore": 381.39018,
+      "dailyScore": 24.478705,
+      "weeklyScore": 174.267985,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21530,44 +22690,44 @@
     {
       "date": "2025-04-24",
       "dailyScore": 25.938965,
-      "weeklyScore": 177.606985,
-      "monthlyScore": 381.39018,
+      "weeklyScore": 174.267985,
+      "monthlyScore": 375.09918,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
     },
     {
       "date": "2025-04-25",
-      "dailyScore": 25.62715,
-      "weeklyScore": 177.606985,
-      "monthlyScore": 381.39018,
+      "dailyScore": 24.59515,
+      "weeklyScore": 174.267985,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-04-26",
-      "dailyScore": 25.345745,
-      "weeklyScore": 177.606985,
-      "monthlyScore": 381.39018,
+      "dailyScore": 24.997745,
+      "weeklyScore": 174.267985,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-04-27",
-      "dailyScore": 26.46427,
-      "weeklyScore": 177.606985,
-      "monthlyScore": 381.39018,
+      "dailyScore": 26.14627,
+      "weeklyScore": 174.267985,
+      "monthlyScore": 375.09918,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
     },
     {
       "date": "2025-04-28",
-      "dailyScore": 25.64156,
-      "weeklyScore": 172.781505,
-      "monthlyScore": 381.39018,
+      "dailyScore": 24.66656,
+      "weeklyScore": 164.243505,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21575,35 +22735,35 @@
     {
       "date": "2025-04-29",
       "dailyScore": 25.532425,
-      "weeklyScore": 172.781505,
-      "monthlyScore": 381.39018,
+      "weeklyScore": 164.243505,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-04-30",
-      "dailyScore": 24.44422,
-      "weeklyScore": 172.781505,
-      "monthlyScore": 381.39018,
+      "dailyScore": 24.09622,
+      "weeklyScore": 164.243505,
+      "monthlyScore": 375.09918,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-05-01",
-      "dailyScore": 24.59304,
-      "weeklyScore": 172.781505,
-      "monthlyScore": 779.83915,
+      "dailyScore": 18.68604,
+      "weeklyScore": 164.243505,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-05-02",
-      "dailyScore": 24.23704,
-      "weeklyScore": 172.781505,
-      "monthlyScore": 779.83915,
+      "dailyScore": 22.92904,
+      "weeklyScore": 164.243505,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21611,8 +22771,8 @@
     {
       "date": "2025-05-03",
       "dailyScore": 23.937995,
-      "weeklyScore": 172.781505,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 164.243505,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21620,8 +22780,8 @@
     {
       "date": "2025-05-04",
       "dailyScore": 24.395225,
-      "weeklyScore": 172.781505,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 164.243505,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21629,44 +22789,44 @@
     {
       "date": "2025-05-05",
       "dailyScore": 24.752475,
-      "weeklyScore": 183.864,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 183.135,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-05-06",
-      "dailyScore": 26.07275,
-      "weeklyScore": 183.864,
-      "monthlyScore": 779.83915,
-      "tier": "Critical",
+      "dailyScore": 25.84175,
+      "weeklyScore": 183.135,
+      "monthlyScore": 767.62315,
+      "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.5
+      "percentile": 1.0
     },
     {
       "date": "2025-05-07",
       "dailyScore": 25.958225,
-      "weeklyScore": 183.864,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 183.135,
+      "monthlyScore": 767.62315,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
     },
     {
       "date": "2025-05-08",
-      "dailyScore": 26.20185,
-      "weeklyScore": 183.864,
-      "monthlyScore": 779.83915,
-      "tier": "Critical",
+      "dailyScore": 25.70385,
+      "weeklyScore": 183.135,
+      "monthlyScore": 767.62315,
+      "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.5
+      "percentile": 1.0
     },
     {
       "date": "2025-05-09",
       "dailyScore": 26.6947,
-      "weeklyScore": 183.864,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 183.135,
+      "monthlyScore": 767.62315,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -21674,8 +22834,8 @@
     {
       "date": "2025-05-10",
       "dailyScore": 26.876325,
-      "weeklyScore": 183.864,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 183.135,
+      "monthlyScore": 767.62315,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -21683,17 +22843,17 @@
     {
       "date": "2025-05-11",
       "dailyScore": 27.307675,
-      "weeklyScore": 183.864,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 183.135,
+      "monthlyScore": 767.62315,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
     },
     {
       "date": "2025-05-12",
-      "dailyScore": 26.4643,
-      "weeklyScore": 177.5958,
-      "monthlyScore": 779.83915,
+      "dailyScore": 26.1553,
+      "weeklyScore": 177.1458,
+      "monthlyScore": 767.62315,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -21701,8 +22861,8 @@
     {
       "date": "2025-05-13",
       "dailyScore": 25.9463,
-      "weeklyScore": 177.5958,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 177.1458,
+      "monthlyScore": 767.62315,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -21710,8 +22870,8 @@
     {
       "date": "2025-05-14",
       "dailyScore": 25.084,
-      "weeklyScore": 177.5958,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 177.1458,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21719,17 +22879,17 @@
     {
       "date": "2025-05-15",
       "dailyScore": 24.754775,
-      "weeklyScore": 177.5958,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 177.1458,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-05-16",
-      "dailyScore": 25.436075,
-      "weeklyScore": 177.5958,
-      "monthlyScore": 779.83915,
+      "dailyScore": 25.295075,
+      "weeklyScore": 177.1458,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21737,8 +22897,8 @@
     {
       "date": "2025-05-17",
       "dailyScore": 24.8408,
-      "weeklyScore": 177.5958,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 177.1458,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21746,17 +22906,17 @@
     {
       "date": "2025-05-18",
       "dailyScore": 25.06955,
-      "weeklyScore": 177.5958,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 177.1458,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-05-19",
-      "dailyScore": 25.1583,
-      "weeklyScore": 174.329725,
-      "monthlyScore": 779.83915,
+      "dailyScore": 24.8733,
+      "weeklyScore": 172.544725,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21764,26 +22924,26 @@
     {
       "date": "2025-05-20",
       "dailyScore": 24.7358,
-      "weeklyScore": 174.329725,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 172.544725,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-05-21",
-      "dailyScore": 25.353775,
-      "weeklyScore": 174.329725,
-      "monthlyScore": 779.83915,
+      "dailyScore": 24.447775,
+      "weeklyScore": 172.544725,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-05-22",
-      "dailyScore": 25.2458,
-      "weeklyScore": 174.329725,
-      "monthlyScore": 779.83915,
+      "dailyScore": 24.6518,
+      "weeklyScore": 172.544725,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21791,8 +22951,8 @@
     {
       "date": "2025-05-23",
       "dailyScore": 24.929975,
-      "weeklyScore": 174.329725,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 172.544725,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21800,8 +22960,8 @@
     {
       "date": "2025-05-24",
       "dailyScore": 24.40995,
-      "weeklyScore": 174.329725,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 172.544725,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21809,8 +22969,8 @@
     {
       "date": "2025-05-25",
       "dailyScore": 24.496125,
-      "weeklyScore": 174.329725,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 172.544725,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21818,8 +22978,8 @@
     {
       "date": "2025-05-26",
       "dailyScore": 24.5104,
-      "weeklyScore": 170.9945,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 165.4445,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21827,26 +22987,26 @@
     {
       "date": "2025-05-27",
       "dailyScore": 24.7958,
-      "weeklyScore": 170.9945,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 165.4445,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-05-28",
-      "dailyScore": 25.026975,
-      "weeklyScore": 170.9945,
-      "monthlyScore": 779.83915,
+      "dailyScore": 24.672975,
+      "weeklyScore": 165.4445,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-05-29",
-      "dailyScore": 24.352925,
-      "weeklyScore": 170.9945,
-      "monthlyScore": 779.83915,
+      "dailyScore": 22.669925,
+      "weeklyScore": 165.4445,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21854,8 +23014,8 @@
     {
       "date": "2025-05-30",
       "dailyScore": 24.115725,
-      "weeklyScore": 170.9945,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 165.4445,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -21863,143 +23023,143 @@
     {
       "date": "2025-05-31",
       "dailyScore": 24.0845,
-      "weeklyScore": 170.9945,
-      "monthlyScore": 779.83915,
+      "weeklyScore": 165.4445,
+      "monthlyScore": 767.62315,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-06-01",
-      "dailyScore": 24.108175,
-      "weeklyScore": 170.9945,
-      "monthlyScore": 765.59275,
+      "dailyScore": 20.595175,
+      "weeklyScore": 165.4445,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-06-02",
-      "dailyScore": 24.841375,
-      "weeklyScore": 179.257675,
-      "monthlyScore": 765.59275,
+      "dailyScore": 24.829375,
+      "weeklyScore": 177.748675,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-06-03",
-      "dailyScore": 24.5991,
-      "weeklyScore": 179.257675,
-      "monthlyScore": 765.59275,
+      "dailyScore": 23.9481,
+      "weeklyScore": 177.748675,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-06-04",
-      "dailyScore": 25.745,
-      "weeklyScore": 179.257675,
-      "monthlyScore": 765.59275,
+      "dailyScore": 25.514,
+      "weeklyScore": 177.748675,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-06-05",
-      "dailyScore": 25.6555,
-      "weeklyScore": 179.257675,
-      "monthlyScore": 765.59275,
+      "dailyScore": 25.3075,
+      "weeklyScore": 177.748675,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-06-06",
-      "dailyScore": 25.7015,
-      "weeklyScore": 179.257675,
-      "monthlyScore": 765.59275,
+      "dailyScore": 25.6445,
+      "weeklyScore": 177.748675,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-06-07",
-      "dailyScore": 26.5657,
-      "weeklyScore": 179.257675,
-      "monthlyScore": 765.59275,
+      "dailyScore": 26.4607,
+      "weeklyScore": 177.748675,
+      "monthlyScore": 756.29875,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
     },
     {
       "date": "2025-06-08",
-      "dailyScore": 26.1495,
-      "weeklyScore": 179.257675,
-      "monthlyScore": 765.59275,
+      "dailyScore": 26.0445,
+      "weeklyScore": 177.748675,
+      "monthlyScore": 756.29875,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
     },
     {
       "date": "2025-06-09",
-      "dailyScore": 26.25475,
-      "weeklyScore": 180.6211,
-      "monthlyScore": 765.59275,
-      "tier": "Critical",
+      "dailyScore": 25.53475,
+      "weeklyScore": 176.3491,
+      "monthlyScore": 756.29875,
+      "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.5
+      "percentile": 1.0
     },
     {
       "date": "2025-06-10",
-      "dailyScore": 25.991875,
-      "weeklyScore": 180.6211,
-      "monthlyScore": 765.59275,
+      "dailyScore": 25.958875,
+      "weeklyScore": 176.3491,
+      "monthlyScore": 756.29875,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
     },
     {
       "date": "2025-06-11",
-      "dailyScore": 25.90725,
-      "weeklyScore": 180.6211,
-      "monthlyScore": 765.59275,
+      "dailyScore": 25.88925,
+      "weeklyScore": 176.3491,
+      "monthlyScore": 756.29875,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
     },
     {
       "date": "2025-06-12",
-      "dailyScore": 25.629,
-      "weeklyScore": 180.6211,
-      "monthlyScore": 765.59275,
+      "dailyScore": 23.784,
+      "weeklyScore": 176.3491,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-06-13",
-      "dailyScore": 25.53755,
-      "weeklyScore": 180.6211,
-      "monthlyScore": 765.59275,
+      "dailyScore": 24.52955,
+      "weeklyScore": 176.3491,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-06-14",
-      "dailyScore": 25.573175,
-      "weeklyScore": 180.6211,
-      "monthlyScore": 765.59275,
+      "dailyScore": 25.423175,
+      "weeklyScore": 176.3491,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-06-15",
-      "dailyScore": 25.7275,
-      "weeklyScore": 180.6211,
-      "monthlyScore": 765.59275,
+      "dailyScore": 25.2295,
+      "weeklyScore": 176.3491,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22008,7 +23168,7 @@
       "date": "2025-06-16",
       "dailyScore": 25.152525,
       "weeklyScore": 180.8191,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22017,7 +23177,7 @@
       "date": "2025-06-17",
       "dailyScore": 25.71325,
       "weeklyScore": 180.8191,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22026,7 +23186,7 @@
       "date": "2025-06-18",
       "dailyScore": 26.622475,
       "weeklyScore": 180.8191,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22035,7 +23195,7 @@
       "date": "2025-06-19",
       "dailyScore": 26.76615,
       "weeklyScore": 180.8191,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22044,7 +23204,7 @@
       "date": "2025-06-20",
       "dailyScore": 25.926225,
       "weeklyScore": 180.8191,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22053,7 +23213,7 @@
       "date": "2025-06-21",
       "dailyScore": 25.36235,
       "weeklyScore": 180.8191,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22062,7 +23222,7 @@
       "date": "2025-06-22",
       "dailyScore": 25.276125,
       "weeklyScore": 180.8191,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22071,7 +23231,7 @@
       "date": "2025-06-23",
       "dailyScore": 24.59075,
       "weeklyScore": 175.208525,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22080,7 +23240,7 @@
       "date": "2025-06-24",
       "dailyScore": 24.69925,
       "weeklyScore": 175.208525,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22089,7 +23249,7 @@
       "date": "2025-06-25",
       "dailyScore": 24.5605,
       "weeklyScore": 175.208525,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22098,7 +23258,7 @@
       "date": "2025-06-26",
       "dailyScore": 25.1378,
       "weeklyScore": 175.208525,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22107,7 +23267,7 @@
       "date": "2025-06-27",
       "dailyScore": 25.35425,
       "weeklyScore": 175.208525,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22116,7 +23276,7 @@
       "date": "2025-06-28",
       "dailyScore": 25.287375,
       "weeklyScore": 175.208525,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22125,7 +23285,7 @@
       "date": "2025-06-29",
       "dailyScore": 25.5786,
       "weeklyScore": 175.208525,
-      "monthlyScore": 765.59275,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22133,17 +23293,17 @@
     {
       "date": "2025-06-30",
       "dailyScore": 25.578175,
-      "weeklyScore": 179.505225,
-      "monthlyScore": 765.59275,
+      "weeklyScore": 179.109225,
+      "monthlyScore": 756.29875,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
     },
     {
       "date": "2025-07-01",
-      "dailyScore": 23.99945,
-      "weeklyScore": 179.505225,
-      "monthlyScore": 801.744775,
+      "dailyScore": 23.60345,
+      "weeklyScore": 179.109225,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22151,8 +23311,8 @@
     {
       "date": "2025-07-02",
       "dailyScore": 25.64025,
-      "weeklyScore": 179.505225,
-      "monthlyScore": 801.744775,
+      "weeklyScore": 179.109225,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22160,8 +23320,8 @@
     {
       "date": "2025-07-03",
       "dailyScore": 26.56575,
-      "weeklyScore": 179.505225,
-      "monthlyScore": 801.744775,
+      "weeklyScore": 179.109225,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22169,8 +23329,8 @@
     {
       "date": "2025-07-04",
       "dailyScore": 24.56085,
-      "weeklyScore": 179.505225,
-      "monthlyScore": 801.744775,
+      "weeklyScore": 179.109225,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22178,8 +23338,8 @@
     {
       "date": "2025-07-05",
       "dailyScore": 26.551,
-      "weeklyScore": 179.505225,
-      "monthlyScore": 801.744775,
+      "weeklyScore": 179.109225,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22187,8 +23347,8 @@
     {
       "date": "2025-07-06",
       "dailyScore": 26.60975,
-      "weeklyScore": 179.505225,
-      "monthlyScore": 801.744775,
+      "weeklyScore": 179.109225,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22197,7 +23357,7 @@
       "date": "2025-07-07",
       "dailyScore": 25.375,
       "weeklyScore": 181.909475,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22206,7 +23366,7 @@
       "date": "2025-07-08",
       "dailyScore": 26.48025,
       "weeklyScore": 181.909475,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22215,7 +23375,7 @@
       "date": "2025-07-09",
       "dailyScore": 25.296625,
       "weeklyScore": 181.909475,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22224,7 +23384,7 @@
       "date": "2025-07-10",
       "dailyScore": 25.65505,
       "weeklyScore": 181.909475,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22233,7 +23393,7 @@
       "date": "2025-07-11",
       "dailyScore": 26.1105,
       "weeklyScore": 181.909475,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22242,7 +23402,7 @@
       "date": "2025-07-12",
       "dailyScore": 26.43525,
       "weeklyScore": 181.909475,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22251,7 +23411,7 @@
       "date": "2025-07-13",
       "dailyScore": 26.5568,
       "weeklyScore": 181.909475,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22260,7 +23420,7 @@
       "date": "2025-07-14",
       "dailyScore": 24.66825,
       "weeklyScore": 178.969275,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22269,7 +23429,7 @@
       "date": "2025-07-15",
       "dailyScore": 24.4558,
       "weeklyScore": 178.969275,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22278,7 +23438,7 @@
       "date": "2025-07-16",
       "dailyScore": 25.1865,
       "weeklyScore": 178.969275,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22287,7 +23447,7 @@
       "date": "2025-07-17",
       "dailyScore": 25.1902,
       "weeklyScore": 178.969275,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22296,7 +23456,7 @@
       "date": "2025-07-18",
       "dailyScore": 25.3119,
       "weeklyScore": 178.969275,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22305,7 +23465,7 @@
       "date": "2025-07-19",
       "dailyScore": 27.769875,
       "weeklyScore": 178.969275,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22314,7 +23474,7 @@
       "date": "2025-07-20",
       "dailyScore": 26.38675,
       "weeklyScore": 178.969275,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22323,7 +23483,7 @@
       "date": "2025-07-21",
       "dailyScore": 25.447125,
       "weeklyScore": 183.546175,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22332,7 +23492,7 @@
       "date": "2025-07-22",
       "dailyScore": 27.755675,
       "weeklyScore": 183.546175,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22341,7 +23501,7 @@
       "date": "2025-07-23",
       "dailyScore": 26.363125,
       "weeklyScore": 183.546175,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22350,7 +23510,7 @@
       "date": "2025-07-24",
       "dailyScore": 26.07165,
       "weeklyScore": 183.546175,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22359,7 +23519,7 @@
       "date": "2025-07-25",
       "dailyScore": 26.237675,
       "weeklyScore": 183.546175,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22368,7 +23528,7 @@
       "date": "2025-07-26",
       "dailyScore": 26.149075,
       "weeklyScore": 183.546175,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22377,7 +23537,7 @@
       "date": "2025-07-27",
       "dailyScore": 25.52185,
       "weeklyScore": 183.546175,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22386,7 +23546,7 @@
       "date": "2025-07-28",
       "dailyScore": 25.473175,
       "weeklyScore": 184.4766,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22395,7 +23555,7 @@
       "date": "2025-07-29",
       "dailyScore": 25.538425,
       "weeklyScore": 184.4766,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -22404,7 +23564,7 @@
       "date": "2025-07-30",
       "dailyScore": 26.212725,
       "weeklyScore": 184.4766,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -22413,7 +23573,7 @@
       "date": "2025-07-31",
       "dailyScore": 26.168475,
       "weeklyScore": 184.4766,
-      "monthlyScore": 801.744775,
+      "monthlyScore": 801.348775,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
