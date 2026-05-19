@@ -12,17 +12,17 @@
       "Meta Ads Library - donate": 3350.35
     },
     "sourceMeans": {
-      "Idealist.org": 2340.0,
-      "LinkedIn": 47596.0,
-      "Glassdoor": 127771.0,
-      "Meta Ads Library - nonprofit": 6950.0,
-      "Meta Ads Library - charity": 33680.0,
-      "Meta Ads Library - donate": 35061.0
+      "Idealist.org": 2340,
+      "LinkedIn": 47596,
+      "Glassdoor": 127771,
+      "Meta Ads Library - nonprofit": 6950,
+      "Meta Ads Library - charity": 33680,
+      "Meta Ads Library - donate": 35061
     },
     "weights": {
       "Idealist.org": 0.004,
-      "LinkedIn": 8e-05,
-      "Glassdoor": 2.5e-05,
+      "LinkedIn": 0.00008,
+      "Glassdoor": 0.000025,
       "Meta Ads Library - nonprofit": 0.0001,
       "Meta Ads Library - charity": 0.0001,
       "Meta Ads Library - donate": 0.00033,
@@ -501,7 +501,7 @@
       "location": "United States",
       "source": "Meta Ads Library - charity",
       "jobCount": null,
-      "weightedValue": 0.0
+      "weightedValue": 0
     },
     {
       "timestamp": "4/16/25 13:16",
@@ -549,7 +549,7 @@
       "location": "United States",
       "source": "Meta Ads Library - charity",
       "jobCount": null,
-      "weightedValue": 0.0
+      "weightedValue": 0
     },
     {
       "timestamp": "4/17/25 13:00",
@@ -19324,8 +19324,8 @@
       "date": "2026-05-12",
       "location": "United States",
       "source": "LinkedIn",
-      "jobCount": 1000,
-      "weightedValue": 2.4424368697249674
+      "jobCount": 55000,
+      "weightedValue": 3.8588132864708804
     },
     {
       "timestamp": "2026-05-12 20:50:03",
@@ -19650,28 +19650,433 @@
   ],
   "scoreSummaries": [
     {
+      "date": "2024-04-26",
+      "dailyScore": -0.348,
+      "weeklyScore": -0.348,
+      "monthlyScore": -0.348,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-01-01",
+      "dailyScore": -0.036,
+      "weeklyScore": 24.1305,
+      "monthlyScore": -0.2445,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-01-21",
+      "dailyScore": -0.156,
+      "weeklyScore": -0.3345,
+      "monthlyScore": -0.2445,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-01-25",
+      "dailyScore": -0.513,
+      "weeklyScore": -0.3345,
+      "monthlyScore": -0.2445,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-01-31",
+      "dailyScore": -0.273,
+      "weeklyScore": -4.6005,
+      "monthlyScore": -0.2445,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-01",
+      "dailyScore": -8.928,
+      "weeklyScore": -4.6005,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-03",
+      "dailyScore": -0.246,
+      "weeklyScore": -0.4005,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-05",
+      "dailyScore": -0.453,
+      "weeklyScore": -0.4005,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-06",
+      "dailyScore": -0.06,
+      "weeklyScore": -0.4005,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-07",
+      "dailyScore": -0.843,
+      "weeklyScore": -0.4005,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-10",
+      "dailyScore": -0.732,
+      "weeklyScore": -0.3735,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-11",
+      "dailyScore": -0.189,
+      "weeklyScore": -0.3735,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-12",
+      "dailyScore": -0.345,
+      "weeklyScore": -0.3735,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-14",
+      "dailyScore": -0.228,
+      "weeklyScore": -0.3735,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-18",
+      "dailyScore": -0.183,
+      "weeklyScore": -0.183,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-24",
+      "dailyScore": -2.925,
+      "weeklyScore": -1.617,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-25",
+      "dailyScore": -0.258,
+      "weeklyScore": -1.617,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-27",
+      "dailyScore": -0.108,
+      "weeklyScore": -1.617,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-02-28",
+      "dailyScore": -0.279,
+      "weeklyScore": -1.617,
+      "monthlyScore": -1.1269,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-01",
+      "dailyScore": -4.515,
+      "weeklyScore": -1.617,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-03",
+      "dailyScore": -0.114,
+      "weeklyScore": -0.2205,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-06",
+      "dailyScore": -0.327,
+      "weeklyScore": -0.2205,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-10",
+      "dailyScore": -0.639,
+      "weeklyScore": -0.5892,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-11",
+      "dailyScore": -1.515,
+      "weeklyScore": -0.5892,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-12",
+      "dailyScore": -0.021,
+      "weeklyScore": -0.5892,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-13",
+      "dailyScore": -0.747,
+      "weeklyScore": -0.5892,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-14",
+      "dailyScore": -0.024,
+      "weeklyScore": -0.5892,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-17",
+      "dailyScore": -0.198,
+      "weeklyScore": -0.23,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-18",
+      "dailyScore": -0.189,
+      "weeklyScore": -0.23,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-21",
+      "dailyScore": -0.303,
+      "weeklyScore": -0.23,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-24",
+      "dailyScore": -0.336,
+      "weeklyScore": -0.9126,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-25",
+      "dailyScore": -1.725,
+      "weeklyScore": -0.9126,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-26",
+      "dailyScore": -0.729,
+      "weeklyScore": -0.9126,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-27",
+      "dailyScore": -1.062,
+      "weeklyScore": -0.9126,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-28",
+      "dailyScore": -0.711,
+      "weeklyScore": -0.9126,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-03-31",
+      "dailyScore": -0.18,
+      "weeklyScore": -0.6696,
+      "monthlyScore": -0.7844,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-04-01",
+      "dailyScore": -1.188,
+      "weeklyScore": -0.6696,
+      "monthlyScore": 18.5225,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-04-02",
+      "dailyScore": -1.89,
+      "weeklyScore": -0.6696,
+      "monthlyScore": 18.5225,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-04-03",
+      "dailyScore": -0.036,
+      "weeklyScore": -0.6696,
+      "monthlyScore": 18.5225,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-04-04",
+      "dailyScore": -0.054,
+      "weeklyScore": -0.6696,
+      "monthlyScore": 18.5225,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-04-07",
+      "dailyScore": -1.644,
+      "weeklyScore": -1.19,
+      "monthlyScore": 18.5225,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-04-08",
+      "dailyScore": -0.714,
+      "weeklyScore": -1.19,
+      "monthlyScore": 18.5225,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-04-09",
+      "dailyScore": -1.212,
+      "weeklyScore": -1.19,
+      "monthlyScore": 18.5225,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-04-14",
+      "dailyScore": -0.138,
+      "weeklyScore": 20.8553,
+      "monthlyScore": 18.5225,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
+      "date": "2025-04-15",
+      "dailyScore": -0.093,
+      "weeklyScore": 20.8553,
+      "monthlyScore": 18.5225,
+      "tier": "Peak Health",
+      "tierNumber": 4,
+      "percentile": 4
+    },
+    {
       "date": "2025-04-16",
       "dailyScore": 26.4417,
-      "weeklyScore": 29.2436,
-      "monthlyScore": 30.1006,
+      "weeklyScore": 20.8553,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-04-17",
       "dailyScore": 26.6076,
-      "weeklyScore": 29.2436,
-      "monthlyScore": 30.1006,
+      "weeklyScore": 20.8553,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-04-18",
       "dailyScore": 31.1091,
-      "weeklyScore": 29.2436,
-      "monthlyScore": 30.1006,
+      "weeklyScore": 20.8553,
+      "monthlyScore": 18.5225,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -19679,8 +20084,8 @@
     {
       "date": "2025-04-19",
       "dailyScore": 31.1534,
-      "weeklyScore": 29.2436,
-      "monthlyScore": 30.1006,
+      "weeklyScore": 20.8553,
+      "monthlyScore": 18.5225,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -19688,44 +20093,44 @@
     {
       "date": "2025-04-20",
       "dailyScore": 30.9063,
-      "weeklyScore": 29.2436,
-      "monthlyScore": 30.1006,
+      "weeklyScore": 20.8553,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-04-21",
       "dailyScore": 30.0449,
       "weeklyScore": 30.5291,
-      "monthlyScore": 30.1006,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-04-22",
       "dailyScore": 30.757,
       "weeklyScore": 30.5291,
-      "monthlyScore": 30.1006,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-04-23",
       "dailyScore": 30.3781,
       "weeklyScore": 30.5291,
-      "monthlyScore": 30.1006,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-04-24",
       "dailyScore": 31.0693,
       "weeklyScore": 30.5291,
-      "monthlyScore": 30.1006,
+      "monthlyScore": 18.5225,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -19734,43 +20139,43 @@
       "date": "2025-04-25",
       "dailyScore": 29.9942,
       "weeklyScore": 30.5291,
-      "monthlyScore": 30.1006,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-04-26",
       "dailyScore": 30.6627,
       "weeklyScore": 30.5291,
-      "monthlyScore": 30.1006,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-04-27",
       "dailyScore": 30.7975,
       "weeklyScore": 30.5291,
-      "monthlyScore": 30.1006,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-04-28",
       "dailyScore": 30.0552,
       "weeklyScore": 29.7452,
-      "monthlyScore": 30.1006,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-04-29",
       "dailyScore": 31.0128,
       "weeklyScore": 29.7452,
-      "monthlyScore": 30.1006,
+      "monthlyScore": 18.5225,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -19779,10 +20184,10 @@
       "date": "2025-04-30",
       "dailyScore": 30.5189,
       "weeklyScore": 29.7452,
-      "monthlyScore": 30.1006,
+      "monthlyScore": 18.5225,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-01",
@@ -19791,7 +20196,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-02",
@@ -19800,7 +20205,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-03",
@@ -19809,7 +20214,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-04",
@@ -19818,7 +20223,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-05",
@@ -19836,7 +20241,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-07",
@@ -19854,7 +20259,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-09",
@@ -19890,7 +20295,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-13",
@@ -19926,7 +20331,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-17",
@@ -19953,7 +20358,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-20",
@@ -19971,7 +20376,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-22",
@@ -19980,7 +20385,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-23",
@@ -20034,7 +20439,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-29",
@@ -20043,7 +20448,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-30",
@@ -20052,7 +20457,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-05-31",
@@ -20061,7 +20466,7 @@
       "monthlyScore": 30.69,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-06-01",
@@ -20070,7 +20475,7 @@
       "monthlyScore": 30.8694,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-06-02",
@@ -20079,7 +20484,7 @@
       "monthlyScore": 30.8694,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-06-03",
@@ -20088,7 +20493,7 @@
       "monthlyScore": 30.8694,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-06-04",
@@ -20097,7 +20502,7 @@
       "monthlyScore": 30.8694,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-06-05",
@@ -20106,7 +20511,7 @@
       "monthlyScore": 30.8694,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-06-06",
@@ -20142,7 +20547,7 @@
       "monthlyScore": 30.8694,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-06-10",
@@ -20169,7 +20574,7 @@
       "monthlyScore": 30.8694,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-06-13",
@@ -20178,7 +20583,7 @@
       "monthlyScore": 30.8694,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-06-14",
@@ -20196,7 +20601,7 @@
       "monthlyScore": 30.8694,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-06-16",
@@ -20340,7 +20745,7 @@
       "monthlyScore": 31.228,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2025-07-02",
@@ -21436,9 +21841,9 @@
       "dailyScore": 32.0019,
       "weeklyScore": 31.9942,
       "monthlyScore": 32.0602,
-      "tier": "Caution",
-      "tierNumber": 2,
-      "percentile": 2.66
+      "tier": "Stable",
+      "tierNumber": 3,
+      "percentile": 2.99
     },
     {
       "date": "2025-11-01",
@@ -21965,7 +22370,7 @@
     {
       "date": "2025-12-29",
       "dailyScore": 32.196,
-      "weeklyScore": 32.186,
+      "weeklyScore": 24.1305,
       "monthlyScore": 32.1467,
       "tier": "Growing",
       "tierNumber": 3,
@@ -21974,7 +22379,7 @@
     {
       "date": "2025-12-30",
       "dailyScore": 32.2114,
-      "weeklyScore": 32.186,
+      "weeklyScore": 24.1305,
       "monthlyScore": 32.1467,
       "tier": "Thriving",
       "tierNumber": 3,
@@ -21983,7 +22388,7 @@
     {
       "date": "2025-12-31",
       "dailyScore": 32.1505,
-      "weeklyScore": 32.186,
+      "weeklyScore": 24.1305,
       "monthlyScore": 32.1467,
       "tier": "Growing",
       "tierNumber": 3,
@@ -22401,7 +22806,7 @@
       "monthlyScore": 32.4211,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-02-28",
@@ -22419,7 +22824,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-02",
@@ -22446,7 +22851,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-06",
@@ -22455,7 +22860,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-07",
@@ -22464,7 +22869,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-08",
@@ -22473,7 +22878,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-09",
@@ -22482,7 +22887,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-10",
@@ -22491,7 +22896,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-11",
@@ -22500,7 +22905,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-12",
@@ -22509,7 +22914,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-13",
@@ -22518,7 +22923,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-14",
@@ -22527,7 +22932,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-15",
@@ -22536,7 +22941,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-17",
@@ -22554,7 +22959,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-19",
@@ -22563,7 +22968,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-20",
@@ -22572,7 +22977,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-21",
@@ -22581,7 +22986,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-22",
@@ -22599,7 +23004,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-24",
@@ -22608,7 +23013,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-25",
@@ -22617,7 +23022,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-26",
@@ -22626,7 +23031,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-27",
@@ -22653,7 +23058,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-30",
@@ -22662,7 +23067,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-03-31",
@@ -22671,7 +23076,7 @@
       "monthlyScore": 32.7055,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-01",
@@ -22680,7 +23085,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-02",
@@ -22689,7 +23094,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-03",
@@ -22698,7 +23103,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-04",
@@ -22707,7 +23112,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-05",
@@ -22716,7 +23121,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-06",
@@ -22725,7 +23130,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-07",
@@ -22734,7 +23139,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-08",
@@ -22743,7 +23148,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-09",
@@ -22752,7 +23157,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-10",
@@ -22761,7 +23166,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-11",
@@ -22770,7 +23175,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-12",
@@ -22779,7 +23184,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-13",
@@ -22788,7 +23193,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-14",
@@ -22797,7 +23202,7 @@
       "monthlyScore": 32.4145,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-04-15",
@@ -22869,7 +23274,7 @@
       "monthlyScore": 32.4145,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2026-04-24",
@@ -22914,7 +23319,7 @@
       "monthlyScore": 32.4145,
       "tier": "Crisis",
       "tierNumber": 1,
-      "percentile": 1.0
+      "percentile": 1
     },
     {
       "date": "2026-04-29",
@@ -22938,7 +23343,7 @@
       "date": "2026-05-01",
       "dailyScore": 32.5721,
       "weeklyScore": 32.051,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -22947,7 +23352,7 @@
       "date": "2026-05-02",
       "dailyScore": 32.5945,
       "weeklyScore": 32.051,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -22956,7 +23361,7 @@
       "date": "2026-05-03",
       "dailyScore": 32.6087,
       "weeklyScore": 32.051,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -22965,7 +23370,7 @@
       "date": "2026-05-04",
       "dailyScore": 32.5836,
       "weeklyScore": 32.5959,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -22974,7 +23379,7 @@
       "date": "2026-05-05",
       "dailyScore": 32.6418,
       "weeklyScore": 32.5959,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -22983,7 +23388,7 @@
       "date": "2026-05-06",
       "dailyScore": 32.5467,
       "weeklyScore": 32.5959,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -22992,7 +23397,7 @@
       "date": "2026-05-07",
       "dailyScore": 32.5268,
       "weeklyScore": 32.5959,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -23001,7 +23406,7 @@
       "date": "2026-05-08",
       "dailyScore": 32.4871,
       "weeklyScore": 32.5959,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -23010,16 +23415,16 @@
       "date": "2026-05-09",
       "dailyScore": 32.7534,
       "weeklyScore": 32.5959,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Peak Health",
       "tierNumber": 4,
-      "percentile": 4.0
+      "percentile": 4
     },
     {
       "date": "2026-05-10",
       "dailyScore": 32.6318,
       "weeklyScore": 32.5959,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -23027,26 +23432,26 @@
     {
       "date": "2026-05-11",
       "dailyScore": 32.5714,
-      "weeklyScore": 32.2888,
-      "monthlyScore": 32.4725,
+      "weeklyScore": 32.4911,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
     },
     {
       "date": "2026-05-12",
-      "dailyScore": 30.9488,
-      "weeklyScore": 32.2888,
-      "monthlyScore": 32.4725,
-      "tier": "Crisis",
-      "tierNumber": 1,
-      "percentile": 1.0
+      "dailyScore": 32.3652,
+      "weeklyScore": 32.4911,
+      "monthlyScore": 32.5512,
+      "tier": "Thriving",
+      "tierNumber": 3,
+      "percentile": 3.49
     },
     {
       "date": "2026-05-13",
       "dailyScore": 32.5033,
-      "weeklyScore": 32.2888,
-      "monthlyScore": 32.4725,
+      "weeklyScore": 32.4911,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -23054,8 +23459,8 @@
     {
       "date": "2026-05-14",
       "dailyScore": 32.472,
-      "weeklyScore": 32.2888,
-      "monthlyScore": 32.4725,
+      "weeklyScore": 32.4911,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -23063,8 +23468,8 @@
     {
       "date": "2026-05-15",
       "dailyScore": 32.4987,
-      "weeklyScore": 32.2888,
-      "monthlyScore": 32.4725,
+      "weeklyScore": 32.4911,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -23072,8 +23477,8 @@
     {
       "date": "2026-05-16",
       "dailyScore": 32.4462,
-      "weeklyScore": 32.2888,
-      "monthlyScore": 32.4725,
+      "weeklyScore": 32.4911,
+      "monthlyScore": 32.5512,
       "tier": "Thriving",
       "tierNumber": 3,
       "percentile": 3.49
@@ -23081,8 +23486,8 @@
     {
       "date": "2026-05-17",
       "dailyScore": 32.5809,
-      "weeklyScore": 32.2888,
-      "monthlyScore": 32.4725,
+      "weeklyScore": 32.4911,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -23091,7 +23496,7 @@
       "date": "2026-05-18",
       "dailyScore": 32.5365,
       "weeklyScore": 32.5365,
-      "monthlyScore": 32.4725,
+      "monthlyScore": 32.5512,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -23100,32 +23505,26 @@
   "sourceBreakdown": [
     {
       "source": "Idealist.org",
-      "count": 2555,
       "weightedValue": 9.466004680101351
     },
     {
       "source": "LinkedIn",
-      "count": 55000,
       "weightedValue": 3.858793626409365
     },
     {
       "source": "Glassdoor",
-      "count": 97555,
       "weightedValue": 3.120973264280033
     },
     {
       "source": "Meta Ads Library - nonprofit",
-      "count": 7500,
       "weightedValue": 0.7009824756845207
     },
     {
       "source": "Meta Ads Library - charity",
-      "count": 50000,
       "weightedValue": 3.4956515311841048
     },
     {
       "source": "Meta Ads Library - donate",
-      "count": 47000,
       "weightedValue": 11.894131789822342
     }
   ]
