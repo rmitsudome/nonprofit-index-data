@@ -81,26 +81,26 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-31",
+  "lastUpdated": "2026-06-01",
   "currentIndex": {
     "daily": {
-      "score": 32.6692,
-      "tier": "Peak Health",
-      "percentile": 4.0
+      "score": 32.438,
+      "tier": "Thriving",
+      "percentile": 3.49
     },
     "weekly": {
-      "score": 32.702,
-      "tier": "Peak Health"
+      "score": 32.438,
+      "tier": "Thriving"
     },
     "monthly": {
-      "score": 32.606,
-      "tier": "Peak Health"
+      "score": 32.438,
+      "tier": "Thriving"
     },
-    "tierNumber": 4
+    "tierNumber": 3
   },
   "deltas": {
-    "weeklyDelta": "-0.03%",
-    "monthlyDelta": "0.09%"
+    "weeklyDelta": "-0.81%",
+    "monthlyDelta": "-0.52%"
   },
   "history": [
     {
@@ -19846,6 +19846,62 @@
       "source": "Meta Ads Library - donate",
       "jobCount": 50000,
       "weightedValue": 11.962536689896297
+    },
+    {
+      "timestamp": "2026-06-01 14:01:55",
+      "date": "2026-06-01",
+      "location": "United States",
+      "source": "Idealist.org",
+      "jobCount": 2322,
+      "weightedValue": 9.350651638203534
+    },
+    {
+      "timestamp": "2026-06-01 14:01:55",
+      "date": "2026-06-01",
+      "location": "United States",
+      "source": "LinkedIn",
+      "jobCount": 58000,
+      "weightedValue": 3.8775888493031005
+    },
+    {
+      "timestamp": "2026-06-01 14:01:55",
+      "date": "2026-06-01",
+      "location": "United States",
+      "source": "Glassdoor",
+      "jobCount": 136499,
+      "weightedValue": 3.212227092556441
+    },
+    {
+      "timestamp": "2026-06-01 14:01:55",
+      "date": "2026-06-01",
+      "location": "United States",
+      "source": "VolunteerMatch",
+      "jobCount": 93189,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2026-06-01 14:01:55",
+      "date": "2026-06-01",
+      "location": "United States",
+      "source": "Meta Ads Library - nonprofit",
+      "jobCount": 8000,
+      "weightedValue": 0.70608893822657
+    },
+    {
+      "timestamp": "2026-06-01 14:01:55",
+      "date": "2026-06-01",
+      "location": "United States",
+      "source": "Meta Ads Library - charity",
+      "jobCount": 50000,
+      "weightedValue": 3.495617150469523
+    },
+    {
+      "timestamp": "2026-06-01 14:01:55",
+      "date": "2026-06-01",
+      "location": "United States",
+      "source": "Meta Ads Library - donate",
+      "jobCount": 43000,
+      "weightedValue": 11.795788164851471
     }
   ],
   "scoreSummaries": [
@@ -23385,18 +23441,27 @@
       "tier": "Peak Health",
       "tierNumber": 4,
       "percentile": 4.0
+    },
+    {
+      "date": "2026-06-01",
+      "dailyScore": 32.438,
+      "weeklyScore": 32.438,
+      "monthlyScore": 32.438,
+      "tier": "Thriving",
+      "tierNumber": 3,
+      "percentile": 3.49
     }
   ],
   "sourceBreakdown": [
     {
       "source": "Idealist.org",
-      "count": 2414,
-      "weightedValue": 9.397509566709607
+      "count": 2322,
+      "weightedValue": 9.350651638203534
     },
     {
       "source": "LinkedIn",
-      "count": 60000,
-      "weightedValue": 3.889573848131897
+      "count": 58000,
+      "weightedValue": 3.8775888493031005
     },
     {
       "source": "Glassdoor",
@@ -23405,8 +23470,8 @@
     },
     {
       "source": "Meta Ads Library - nonprofit",
-      "count": 8600,
-      "weightedValue": 0.7117701259263369
+      "count": 8000,
+      "weightedValue": 0.70608893822657
     },
     {
       "source": "Meta Ads Library - charity",
@@ -23415,8 +23480,8 @@
     },
     {
       "source": "Meta Ads Library - donate",
-      "count": 50000,
-      "weightedValue": 11.962536689896297
+      "count": 43000,
+      "weightedValue": 11.795788164851471
     }
   ]
 }
