@@ -81,26 +81,26 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-01",
+  "lastUpdated": "2026-06-02",
   "currentIndex": {
     "daily": {
-      "score": 32.438,
-      "tier": "Thriving",
-      "percentile": 3.49
+      "score": 32.6016,
+      "tier": "Flourishing",
+      "percentile": 3.75
     },
     "weekly": {
-      "score": 32.438,
-      "tier": "Thriving"
+      "score": 32.5198,
+      "tier": "Flourishing"
     },
     "monthly": {
-      "score": 32.438,
-      "tier": "Thriving"
+      "score": 32.5198,
+      "tier": "Flourishing"
     },
-    "tierNumber": 3
+    "tierNumber": 4
   },
   "deltas": {
-    "weeklyDelta": "-0.81%",
-    "monthlyDelta": "-0.52%"
+    "weeklyDelta": "-0.56%",
+    "monthlyDelta": "-0.26%"
   },
   "history": [
     {
@@ -19902,6 +19902,62 @@
       "source": "Meta Ads Library - donate",
       "jobCount": 43000,
       "weightedValue": 11.795788164851471
+    },
+    {
+      "timestamp": "2026-06-02 14:00:17",
+      "date": "2026-06-02",
+      "location": "United States",
+      "source": "Idealist.org",
+      "jobCount": 2418,
+      "weightedValue": 9.399506157980362
+    },
+    {
+      "timestamp": "2026-06-02 14:00:17",
+      "date": "2026-06-02",
+      "location": "United States",
+      "source": "LinkedIn",
+      "jobCount": 55000,
+      "weightedValue": 3.8588132864708804
+    },
+    {
+      "timestamp": "2026-06-02 14:00:17",
+      "date": "2026-06-02",
+      "location": "United States",
+      "source": "Glassdoor",
+      "jobCount": 141126,
+      "weightedValue": 3.2212833111230976
+    },
+    {
+      "timestamp": "2026-06-02 14:00:17",
+      "date": "2026-06-02",
+      "location": "United States",
+      "source": "VolunteerMatch",
+      "jobCount": 92349,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2026-06-02 14:00:17",
+      "date": "2026-06-02",
+      "location": "United States",
+      "source": "Meta Ads Library - nonprofit",
+      "jobCount": 8300,
+      "weightedValue": 0.7089808731061699
+    },
+    {
+      "timestamp": "2026-06-02 14:00:17",
+      "date": "2026-06-02",
+      "location": "United States",
+      "source": "Meta Ads Library - charity",
+      "jobCount": 50000,
+      "weightedValue": 3.495617150469523
+    },
+    {
+      "timestamp": "2026-06-02 14:00:17",
+      "date": "2026-06-02",
+      "location": "United States",
+      "source": "Meta Ads Library - donate",
+      "jobCount": 48000,
+      "weightedValue": 11.917404181341228
     }
   ],
   "scoreSummaries": [
@@ -23445,33 +23501,42 @@
     {
       "date": "2026-06-01",
       "dailyScore": 32.438,
-      "weeklyScore": 32.438,
-      "monthlyScore": 32.438,
+      "weeklyScore": 32.5198,
+      "monthlyScore": 32.5198,
       "tier": "Thriving",
       "tierNumber": 3,
       "percentile": 3.49
+    },
+    {
+      "date": "2026-06-02",
+      "dailyScore": 32.6016,
+      "weeklyScore": 32.5198,
+      "monthlyScore": 32.5198,
+      "tier": "Flourishing",
+      "tierNumber": 4,
+      "percentile": 3.75
     }
   ],
   "sourceBreakdown": [
     {
       "source": "Idealist.org",
-      "count": 2322,
-      "weightedValue": 9.350651638203534
+      "count": 2418,
+      "weightedValue": 9.399506157980362
     },
     {
       "source": "LinkedIn",
-      "count": 58000,
-      "weightedValue": 3.8775888493031005
+      "count": 55000,
+      "weightedValue": 3.8588132864708804
     },
     {
       "source": "Glassdoor",
-      "count": 136499,
-      "weightedValue": 3.212227092556441
+      "count": 141126,
+      "weightedValue": 3.2212833111230976
     },
     {
       "source": "Meta Ads Library - nonprofit",
-      "count": 8000,
-      "weightedValue": 0.70608893822657
+      "count": 8300,
+      "weightedValue": 0.7089808731061699
     },
     {
       "source": "Meta Ads Library - charity",
@@ -23480,8 +23545,8 @@
     },
     {
       "source": "Meta Ads Library - donate",
-      "count": 43000,
-      "weightedValue": 11.795788164851471
+      "count": 48000,
+      "weightedValue": 11.917404181341228
     }
   ]
 }
