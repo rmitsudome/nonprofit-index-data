@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-06-24",
+  "lastUpdated": "2026-06-25",
   "currentIndex": {
     "daily": {
-      "score": 35.736375,
-      "tier": "Growing",
-      "percentile": 3.25
+      "score": 32.48704,
+      "tier": "Stable",
+      "percentile": 2.99
     },
     "weekly": {
-      "score": 114.371125,
-      "tier": "Growing"
+      "score": 146.858165,
+      "tier": "Stable"
     },
     "monthly": {
-      "score": 919.809935,
-      "tier": "Growing"
+      "score": 952.296975,
+      "tier": "Stable"
     },
     "tierNumber": 3
   },
   "deltas": {
-    "weeklyDelta": "-58.45%",
-    "monthlyDelta": "-15.92%"
+    "weeklyDelta": "-46.65%",
+    "monthlyDelta": "-12.95%"
   },
   "history": [
     {
@@ -24156,6 +24156,62 @@
       "source": "Meta Ads Library - donate",
       "jobCount": 50000,
       "weightedValue": 16.5
+    },
+    {
+      "timestamp": "2026-06-25 14:02:51",
+      "date": "2026-06-25",
+      "location": "United States",
+      "source": "Idealist.org",
+      "jobCount": 2518,
+      "weightedValue": 10.072
+    },
+    {
+      "timestamp": "2026-06-25 14:02:51",
+      "date": "2026-06-25",
+      "location": "United States",
+      "source": "LinkedIn",
+      "jobCount": 563,
+      "weightedValue": 0.04504
+    },
+    {
+      "timestamp": "2026-06-25 14:02:51",
+      "date": "2026-06-25",
+      "location": "United States",
+      "source": "Glassdoor",
+      "jobCount": null,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2026-06-25 14:02:51",
+      "date": "2026-06-25",
+      "location": "United States",
+      "source": "VolunteerMatch",
+      "jobCount": 98987,
+      "weightedValue": 0.0247467
+    },
+    {
+      "timestamp": "2026-06-25 14:02:51",
+      "date": "2026-06-25",
+      "location": "United States",
+      "source": "Meta Ads Library - nonprofit",
+      "jobCount": 8700,
+      "weightedValue": 0.87
+    },
+    {
+      "timestamp": "2026-06-25 14:02:51",
+      "date": "2026-06-25",
+      "location": "United States",
+      "source": "Meta Ads Library - charity",
+      "jobCount": 50000,
+      "weightedValue": 5.0
+    },
+    {
+      "timestamp": "2026-06-25 14:02:51",
+      "date": "2026-06-25",
+      "location": "United States",
+      "source": "Meta Ads Library - donate",
+      "jobCount": 50000,
+      "weightedValue": 16.5
     }
   ],
   "scoreSummaries": [
@@ -27700,7 +27756,7 @@
       "date": "2026-06-01",
       "dailyScore": 37.330475,
       "weeklyScore": 277.8298,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Thriving",
       "tierNumber": 3,
       "percentile": 3.49
@@ -27709,7 +27765,7 @@
       "date": "2026-06-02",
       "dailyScore": 39.27015,
       "weeklyScore": 277.8298,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27718,7 +27774,7 @@
       "date": "2026-06-03",
       "dailyScore": 40.33815,
       "weeklyScore": 277.8298,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27727,7 +27783,7 @@
       "date": "2026-06-04",
       "dailyScore": 40.45215,
       "weeklyScore": 277.8298,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27736,7 +27792,7 @@
       "date": "2026-06-05",
       "dailyScore": 40.18015,
       "weeklyScore": 277.8298,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27745,7 +27801,7 @@
       "date": "2026-06-06",
       "dailyScore": 40.33015,
       "weeklyScore": 277.8298,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27754,7 +27810,7 @@
       "date": "2026-06-07",
       "dailyScore": 39.928575,
       "weeklyScore": 277.8298,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27763,7 +27819,7 @@
       "date": "2026-06-08",
       "dailyScore": 39.276575,
       "weeklyScore": 252.342385,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27772,7 +27828,7 @@
       "date": "2026-06-09",
       "dailyScore": 39.652575,
       "weeklyScore": 252.342385,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27781,7 +27837,7 @@
       "date": "2026-06-10",
       "dailyScore": 39.984575,
       "weeklyScore": 252.342385,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27790,7 +27846,7 @@
       "date": "2026-06-11",
       "dailyScore": 40.112575,
       "weeklyScore": 252.342385,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27799,7 +27855,7 @@
       "date": "2026-06-12",
       "dailyScore": 17.770575,
       "weeklyScore": 252.342385,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -27808,7 +27864,7 @@
       "date": "2026-06-13",
       "dailyScore": 35.957135,
       "weeklyScore": 252.342385,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Growing",
       "tierNumber": 3,
       "percentile": 3.25
@@ -27817,7 +27873,7 @@
       "date": "2026-06-14",
       "dailyScore": 39.588375,
       "weeklyScore": 252.342385,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27826,7 +27882,7 @@
       "date": "2026-06-15",
       "dailyScore": 35.178375,
       "weeklyScore": 275.266625,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Growing",
       "tierNumber": 3,
       "percentile": 3.25
@@ -27835,7 +27891,7 @@
       "date": "2026-06-16",
       "dailyScore": 39.930375,
       "weeklyScore": 275.266625,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27844,7 +27900,7 @@
       "date": "2026-06-17",
       "dailyScore": 40.246375,
       "weeklyScore": 275.266625,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27853,7 +27909,7 @@
       "date": "2026-06-18",
       "dailyScore": 40.236375,
       "weeklyScore": 275.266625,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27862,7 +27918,7 @@
       "date": "2026-06-19",
       "dailyScore": 40.262375,
       "weeklyScore": 275.266625,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27871,7 +27927,7 @@
       "date": "2026-06-20",
       "dailyScore": 39.900375,
       "weeklyScore": 275.266625,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27880,7 +27936,7 @@
       "date": "2026-06-21",
       "dailyScore": 39.512375,
       "weeklyScore": 275.266625,
-      "monthlyScore": 919.809935,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27888,8 +27944,8 @@
     {
       "date": "2026-06-22",
       "dailyScore": 39.188375,
-      "weeklyScore": 114.371125,
-      "monthlyScore": 919.809935,
+      "weeklyScore": 146.858165,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27897,8 +27953,8 @@
     {
       "date": "2026-06-23",
       "dailyScore": 39.446375,
-      "weeklyScore": 114.371125,
-      "monthlyScore": 919.809935,
+      "weeklyScore": 146.858165,
+      "monthlyScore": 952.296975,
       "tier": "Flourishing",
       "tierNumber": 4,
       "percentile": 3.75
@@ -27906,33 +27962,42 @@
     {
       "date": "2026-06-24",
       "dailyScore": 35.736375,
-      "weeklyScore": 114.371125,
-      "monthlyScore": 919.809935,
+      "weeklyScore": 146.858165,
+      "monthlyScore": 952.296975,
       "tier": "Growing",
       "tierNumber": 3,
       "percentile": 3.25
+    },
+    {
+      "date": "2026-06-25",
+      "dailyScore": 32.48704,
+      "weeklyScore": 146.858165,
+      "monthlyScore": 952.296975,
+      "tier": "Stable",
+      "tierNumber": 3,
+      "percentile": 2.99
     }
   ],
   "sourceBreakdown": [
     {
       "source": "Idealist.org",
-      "count": 2446,
-      "weightedValue": 9.784
+      "count": 2518,
+      "weightedValue": 10.072
     },
     {
       "source": "LinkedIn",
-      "count": 1000,
-      "weightedValue": 0.08
+      "count": 563,
+      "weightedValue": 0.04504
     },
     {
       "source": "Glassdoor",
-      "count": 140095,
-      "weightedValue": 3.502375
+      "count": null,
+      "weightedValue": 0.0
     },
     {
       "source": "VolunteerMatch",
-      "count": 98795,
-      "weightedValue": 0.0246987
+      "count": 98987,
+      "weightedValue": 0.0247467
     },
     {
       "source": "Meta Ads Library - nonprofit",
