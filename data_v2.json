@@ -81,26 +81,26 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-08",
+  "lastUpdated": "2026-07-09",
   "currentIndex": {
     "daily": {
-      "score": 30.7434,
+      "score": 30.6693,
       "tier": "Crisis",
       "percentile": 1.0
     },
     "weekly": {
-      "score": 30.6519,
+      "score": 30.6562,
       "tier": "Crisis"
     },
     "monthly": {
-      "score": 30.8812,
+      "score": 30.8576,
       "tier": "Crisis"
     },
     "tierNumber": 1
   },
   "deltas": {
-    "weeklyDelta": "-2.59%",
-    "monthlyDelta": "-2.48%"
+    "weeklyDelta": "-2.58%",
+    "monthlyDelta": "-2.56%"
   },
   "history": [
     {
@@ -21974,6 +21974,62 @@
       "source": "Meta Ads Library - donate",
       "jobCount": 34000,
       "weightedValue": 11.536152678877977
+    },
+    {
+      "timestamp": "2026-07-09 14:03:03",
+      "date": "2026-07-09",
+      "location": "United States",
+      "source": "Idealist.org",
+      "jobCount": 2487,
+      "weightedValue": 9.433437214513736
+    },
+    {
+      "timestamp": "2026-07-09 14:03:03",
+      "date": "2026-07-09",
+      "location": "United States",
+      "source": "LinkedIn",
+      "jobCount": 1000,
+      "weightedValue": 2.4424493136293983
+    },
+    {
+      "timestamp": "2026-07-09 14:03:03",
+      "date": "2026-07-09",
+      "location": "United States",
+      "source": "Glassdoor",
+      "jobCount": 143140,
+      "weightedValue": 3.2251328405136066
+    },
+    {
+      "timestamp": "2026-07-09 14:03:03",
+      "date": "2026-07-09",
+      "location": "United States",
+      "source": "VolunteerMatch",
+      "jobCount": 98356,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2026-07-09 14:03:03",
+      "date": "2026-07-09",
+      "location": "United States",
+      "source": "Meta Ads Library - nonprofit",
+      "jobCount": 9400,
+      "weightedValue": 0.7187575077653788
+    },
+    {
+      "timestamp": "2026-07-09 14:03:03",
+      "date": "2026-07-09",
+      "location": "United States",
+      "source": "Meta Ads Library - charity",
+      "jobCount": 35000,
+      "weightedValue": 3.3803868054371793
+    },
+    {
+      "timestamp": "2026-07-09 14:03:03",
+      "date": "2026-07-09",
+      "location": "United States",
+      "source": "Meta Ads Library - donate",
+      "jobCount": 32000,
+      "weightedValue": 11.46912718963588
     }
   ],
   "scoreSummaries": [
@@ -25788,7 +25844,7 @@
       "date": "2026-07-01",
       "dailyScore": 32.3401,
       "weeklyScore": 31.4678,
-      "monthlyScore": 30.8812,
+      "monthlyScore": 30.8576,
       "tier": "Thriving",
       "tierNumber": 3,
       "percentile": 3.49
@@ -25797,7 +25853,7 @@
       "date": "2026-07-02",
       "dailyScore": 30.6757,
       "weeklyScore": 31.4678,
-      "monthlyScore": 30.8812,
+      "monthlyScore": 30.8576,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -25806,7 +25862,7 @@
       "date": "2026-07-03",
       "dailyScore": 30.7455,
       "weeklyScore": 31.4678,
-      "monthlyScore": 30.8812,
+      "monthlyScore": 30.8576,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -25815,7 +25871,7 @@
       "date": "2026-07-04",
       "dailyScore": 30.7438,
       "weeklyScore": 31.4678,
-      "monthlyScore": 30.8812,
+      "monthlyScore": 30.8576,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -25824,7 +25880,7 @@
       "date": "2026-07-05",
       "dailyScore": 30.5887,
       "weeklyScore": 31.4678,
-      "monthlyScore": 30.8812,
+      "monthlyScore": 30.8576,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -25832,8 +25888,8 @@
     {
       "date": "2026-07-06",
       "dailyScore": 30.5372,
-      "weeklyScore": 30.6519,
-      "monthlyScore": 30.8812,
+      "weeklyScore": 30.6562,
+      "monthlyScore": 30.8576,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -25841,8 +25897,8 @@
     {
       "date": "2026-07-07",
       "dailyScore": 30.6749,
-      "weeklyScore": 30.6519,
-      "monthlyScore": 30.8812,
+      "weeklyScore": 30.6562,
+      "monthlyScore": 30.8576,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -25850,8 +25906,17 @@
     {
       "date": "2026-07-08",
       "dailyScore": 30.7434,
-      "weeklyScore": 30.6519,
-      "monthlyScore": 30.8812,
+      "weeklyScore": 30.6562,
+      "monthlyScore": 30.8576,
+      "tier": "Crisis",
+      "tierNumber": 1,
+      "percentile": 1.0
+    },
+    {
+      "date": "2026-07-09",
+      "dailyScore": 30.6693,
+      "weeklyScore": 30.6562,
+      "monthlyScore": 30.8576,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -25860,8 +25925,8 @@
   "sourceBreakdown": [
     {
       "source": "Idealist.org",
-      "count": 2470,
-      "weightedValue": 9.425165562832898
+      "count": 2487,
+      "weightedValue": 9.433437214513736
     },
     {
       "source": "LinkedIn",
@@ -25875,18 +25940,18 @@
     },
     {
       "source": "Meta Ads Library - nonprofit",
-      "count": 9100,
-      "weightedValue": 0.7162095058337999
+      "count": 9400,
+      "weightedValue": 0.7187575077653788
     },
     {
       "source": "Meta Ads Library - charity",
-      "count": 37000,
-      "weightedValue": 3.398339591723668
+      "count": 35000,
+      "weightedValue": 3.3803868054371793
     },
     {
       "source": "Meta Ads Library - donate",
-      "count": 34000,
-      "weightedValue": 11.536152678877977
+      "count": 32000,
+      "weightedValue": 11.46912718963588
     }
   ]
 }
