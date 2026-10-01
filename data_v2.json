@@ -81,26 +81,26 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-30",
+  "lastUpdated": "2026-10-01",
   "currentIndex": {
     "daily": {
-      "score": 25.3772,
+      "score": 29.3718,
       "tier": "Crisis",
       "percentile": 1.0
     },
     "weekly": {
-      "score": 27.5122,
+      "score": 27.9771,
       "tier": "Crisis"
     },
     "monthly": {
-      "score": 29.7827,
+      "score": 29.3718,
       "tier": "Crisis"
     },
     "tierNumber": 1
   },
   "deltas": {
-    "weeklyDelta": "-7.66%",
-    "monthlyDelta": "-3.10%"
+    "weeklyDelta": "-6.09%",
+    "monthlyDelta": "-1.38%"
   },
   "history": [
     {
@@ -26678,6 +26678,62 @@
       "source": "Meta Ads Library - donate",
       "jobCount": 41000,
       "weightedValue": 11.743131109867647
+    },
+    {
+      "timestamp": "2026-10-01 14:01:58",
+      "date": "2026-10-01",
+      "location": "United States",
+      "source": "Idealist.org",
+      "jobCount": 2449,
+      "weightedValue": 9.414868715121317
+    },
+    {
+      "timestamp": "2026-10-01 14:01:58",
+      "date": "2026-10-01",
+      "location": "United States",
+      "source": "LinkedIn",
+      "jobCount": 385,
+      "weightedValue": 2.105564802891954
+    },
+    {
+      "timestamp": "2026-10-01 14:01:58",
+      "date": "2026-10-01",
+      "location": "United States",
+      "source": "Glassdoor",
+      "jobCount": 1097,
+      "weightedValue": 1.902016145967776
+    },
+    {
+      "timestamp": "2026-10-01 14:01:58",
+      "date": "2026-10-01",
+      "location": "United States",
+      "source": "VolunteerMatch",
+      "jobCount": 100929,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2026-10-01 14:01:58",
+      "date": "2026-10-01",
+      "location": "United States",
+      "source": "Meta Ads Library - nonprofit",
+      "jobCount": 12000,
+      "weightedValue": 0.7379410312443793
+    },
+    {
+      "timestamp": "2026-10-01 14:01:58",
+      "date": "2026-10-01",
+      "location": "United States",
+      "source": "Meta Ads Library - charity",
+      "jobCount": 50000,
+      "weightedValue": 3.495617150469523
+    },
+    {
+      "timestamp": "2026-10-01 14:01:58",
+      "date": "2026-10-01",
+      "location": "United States",
+      "source": "Meta Ads Library - donate",
+      "jobCount": 40000,
+      "weightedValue": 11.715831248791382
     }
   ],
   "scoreSummaries": [
@@ -31292,7 +31348,7 @@
     {
       "date": "2026-09-28",
       "dailyScore": 28.6236,
-      "weeklyScore": 27.5122,
+      "weeklyScore": 27.9771,
       "monthlyScore": 29.7827,
       "tier": "Crisis",
       "tierNumber": 1,
@@ -31301,7 +31357,7 @@
     {
       "date": "2026-09-29",
       "dailyScore": 28.5356,
-      "weeklyScore": 27.5122,
+      "weeklyScore": 27.9771,
       "monthlyScore": 29.7827,
       "tier": "Crisis",
       "tierNumber": 1,
@@ -31310,8 +31366,17 @@
     {
       "date": "2026-09-30",
       "dailyScore": 25.3772,
-      "weeklyScore": 27.5122,
+      "weeklyScore": 27.9771,
       "monthlyScore": 29.7827,
+      "tier": "Crisis",
+      "tierNumber": 1,
+      "percentile": 1.0
+    },
+    {
+      "date": "2026-10-01",
+      "dailyScore": 29.3718,
+      "weeklyScore": 27.9771,
+      "monthlyScore": 29.3718,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -31320,18 +31385,18 @@
   "sourceBreakdown": [
     {
       "source": "Idealist.org",
-      "count": 2420,
-      "weightedValue": 9.400503215888351
+      "count": 2449,
+      "weightedValue": 9.414868715121317
     },
     {
       "source": "LinkedIn",
-      "count": null,
-      "weightedValue": 0.0
+      "count": 385,
+      "weightedValue": 2.105564802891954
     },
     {
       "source": "Glassdoor",
-      "count": null,
-      "weightedValue": 0.0
+      "count": 1097,
+      "weightedValue": 1.902016145967776
     },
     {
       "source": "Meta Ads Library - nonprofit",
@@ -31345,8 +31410,8 @@
     },
     {
       "source": "Meta Ads Library - donate",
-      "count": 41000,
-      "weightedValue": 11.743131109867647
+      "count": 40000,
+      "weightedValue": 11.715831248791382
     }
   ]
 }
