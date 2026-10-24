@@ -81,26 +81,26 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-10-24",
   "currentIndex": {
     "daily": {
-      "score": 30.3368,
-      "tier": "Crisis",
-      "percentile": 1.0
+      "score": 31.3069,
+      "tier": "At Risk",
+      "percentile": 1.99
     },
     "weekly": {
-      "score": 30.136,
-      "tier": "Crisis"
+      "score": 30.3701,
+      "tier": "At Risk"
     },
     "monthly": {
-      "score": 28.3659,
-      "tier": "Crisis"
+      "score": 28.4937,
+      "tier": "At Risk"
     },
-    "tierNumber": 1
+    "tierNumber": 2
   },
   "deltas": {
-    "weeklyDelta": "3.57%",
-    "monthlyDelta": "-4.76%"
+    "weeklyDelta": "4.38%",
+    "monthlyDelta": "-4.33%"
   },
   "history": [
     {
@@ -27910,6 +27910,62 @@
       "source": "Meta Ads Library - donate",
       "jobCount": 39000,
       "weightedValue": 11.687840196567867
+    },
+    {
+      "timestamp": "2026-10-24 14:01:41",
+      "date": "2026-10-24",
+      "location": "United States",
+      "source": "Idealist.org",
+      "jobCount": 2366,
+      "weightedValue": 9.373289129662052
+    },
+    {
+      "timestamp": "2026-10-24 14:01:41",
+      "date": "2026-10-24",
+      "location": "United States",
+      "source": "LinkedIn",
+      "jobCount": 3000,
+      "weightedValue": 2.8306057472081947
+    },
+    {
+      "timestamp": "2026-10-24 14:01:41",
+      "date": "2026-10-24",
+      "location": "United States",
+      "source": "Glassdoor",
+      "jobCount": 116902,
+      "weightedValue": 3.1701239244826636
+    },
+    {
+      "timestamp": "2026-10-24 14:01:41",
+      "date": "2026-10-24",
+      "location": "United States",
+      "source": "VolunteerMatch",
+      "jobCount": 98765,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2026-10-24 14:01:41",
+      "date": "2026-10-24",
+      "location": "United States",
+      "source": "Meta Ads Library - nonprofit",
+      "jobCount": 15000,
+      "weightedValue": 0.7554709950349122
+    },
+    {
+      "timestamp": "2026-10-24 14:01:41",
+      "date": "2026-10-24",
+      "location": "United States",
+      "source": "Meta Ads Library - charity",
+      "jobCount": 45000,
+      "weightedValue": 3.4615784144443653
+    },
+    {
+      "timestamp": "2026-10-24 14:01:41",
+      "date": "2026-10-24",
+      "location": "United States",
+      "source": "Meta Ads Library - donate",
+      "jobCount": 40000,
+      "weightedValue": 11.715831248791382
     }
   ],
   "scoreSummaries": [
@@ -32552,7 +32608,7 @@
       "date": "2026-10-01",
       "dailyScore": 29.3718,
       "weeklyScore": 27.8165,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32561,7 +32617,7 @@
       "date": "2026-10-02",
       "dailyScore": 31.7479,
       "weeklyScore": 27.8165,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Weak",
       "tierNumber": 2,
       "percentile": 2.33
@@ -32570,7 +32626,7 @@
       "date": "2026-10-03",
       "dailyScore": 25.9886,
       "weeklyScore": 27.8165,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32579,7 +32635,7 @@
       "date": "2026-10-04",
       "dailyScore": 25.0706,
       "weeklyScore": 27.8165,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32588,7 +32644,7 @@
       "date": "2026-10-05",
       "dailyScore": 30.0274,
       "weeklyScore": 26.8074,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32597,7 +32653,7 @@
       "date": "2026-10-06",
       "dailyScore": 25.1613,
       "weeklyScore": 26.8074,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32606,7 +32662,7 @@
       "date": "2026-10-07",
       "dailyScore": 25.156,
       "weeklyScore": 26.8074,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32615,7 +32671,7 @@
       "date": "2026-10-08",
       "dailyScore": 25.3833,
       "weeklyScore": 26.8074,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32624,7 +32680,7 @@
       "date": "2026-10-09",
       "dailyScore": 28.006,
       "weeklyScore": 26.8074,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32633,7 +32689,7 @@
       "date": "2026-10-10",
       "dailyScore": 25.4245,
       "weeklyScore": 26.8074,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32642,7 +32698,7 @@
       "date": "2026-10-11",
       "dailyScore": 28.4936,
       "weeklyScore": 26.8074,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32651,7 +32707,7 @@
       "date": "2026-10-12",
       "dailyScore": 25.0792,
       "weeklyScore": 29.0963,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32660,7 +32716,7 @@
       "date": "2026-10-13",
       "dailyScore": 28.3676,
       "weeklyScore": 29.0963,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32669,7 +32725,7 @@
       "date": "2026-10-14",
       "dailyScore": 31.5924,
       "weeklyScore": 29.0963,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Weak",
       "tierNumber": 2,
       "percentile": 2.33
@@ -32678,7 +32734,7 @@
       "date": "2026-10-15",
       "dailyScore": 28.252,
       "weeklyScore": 29.0963,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32687,7 +32743,7 @@
       "date": "2026-10-16",
       "dailyScore": 30.645,
       "weeklyScore": 29.0963,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32696,7 +32752,7 @@
       "date": "2026-10-17",
       "dailyScore": 28.4557,
       "weeklyScore": 29.0963,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32705,7 +32761,7 @@
       "date": "2026-10-18",
       "dailyScore": 31.2823,
       "weeklyScore": 29.0963,
-      "monthlyScore": 28.3659,
+      "monthlyScore": 28.4937,
       "tier": "At Risk",
       "tierNumber": 2,
       "percentile": 1.99
@@ -32713,8 +32769,8 @@
     {
       "date": "2026-10-19",
       "dailyScore": 28.2599,
-      "weeklyScore": 30.136,
-      "monthlyScore": 28.3659,
+      "weeklyScore": 30.3701,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32722,8 +32778,8 @@
     {
       "date": "2026-10-20",
       "dailyScore": 31.5929,
-      "weeklyScore": 30.136,
-      "monthlyScore": 28.3659,
+      "weeklyScore": 30.3701,
+      "monthlyScore": 28.4937,
       "tier": "Weak",
       "tierNumber": 2,
       "percentile": 2.33
@@ -32731,8 +32787,8 @@
     {
       "date": "2026-10-22",
       "dailyScore": 30.3543,
-      "weeklyScore": 30.136,
-      "monthlyScore": 28.3659,
+      "weeklyScore": 30.3701,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
@@ -32740,23 +32796,32 @@
     {
       "date": "2026-10-23",
       "dailyScore": 30.3368,
-      "weeklyScore": 30.136,
-      "monthlyScore": 28.3659,
+      "weeklyScore": 30.3701,
+      "monthlyScore": 28.4937,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
+    },
+    {
+      "date": "2026-10-24",
+      "dailyScore": 31.3069,
+      "weeklyScore": 30.3701,
+      "monthlyScore": 28.4937,
+      "tier": "At Risk",
+      "tierNumber": 2,
+      "percentile": 1.99
     }
   ],
   "sourceBreakdown": [
     {
       "source": "Idealist.org",
-      "count": 2367,
-      "weightedValue": 9.373798713618942
+      "count": 2366,
+      "weightedValue": 9.373289129662052
     },
     {
       "source": "LinkedIn",
-      "count": 218,
-      "weightedValue": 1.9051963730133357
+      "count": 3000,
+      "weightedValue": 2.8306057472081947
     },
     {
       "source": "Glassdoor",
@@ -32765,18 +32830,18 @@
     },
     {
       "source": "Meta Ads Library - nonprofit",
-      "count": 16000,
-      "weightedValue": 0.7605411366150592
+      "count": 15000,
+      "weightedValue": 0.7554709950349122
     },
     {
       "source": "Meta Ads Library - charity",
-      "count": 42000,
-      "weightedValue": 3.439288986303092
+      "count": 45000,
+      "weightedValue": 3.4615784144443653
     },
     {
       "source": "Meta Ads Library - donate",
-      "count": 39000,
-      "weightedValue": 11.687840196567867
+      "count": 40000,
+      "weightedValue": 11.715831248791382
     }
   ]
 }
