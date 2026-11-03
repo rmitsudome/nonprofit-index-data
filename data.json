@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-11-02",
+  "lastUpdated": "2026-11-03",
   "currentIndex": {
     "daily": {
-      "score": 25.852,
-      "tier": "Crisis",
-      "percentile": 1.0
+      "score": 26.776,
+      "tier": "Critical",
+      "percentile": 1.5
     },
     "weekly": {
-      "score": 25.852,
-      "tier": "Crisis"
+      "score": 52.628,
+      "tier": "Critical"
     },
     "monthly": {
-      "score": 52.116,
-      "tier": "Crisis"
+      "score": 78.892,
+      "tier": "Critical"
     },
     "tierNumber": 1
   },
   "deltas": {
-    "weeklyDelta": "-87.23%",
-    "monthlyDelta": "-94.05%"
+    "weeklyDelta": "-74.00%",
+    "monthlyDelta": "-90.99%"
   },
   "history": [
     {
@@ -31436,6 +31436,62 @@
       "source": "Meta Ads Library - donate",
       "jobCount": 34000,
       "weightedValue": 11.22
+    },
+    {
+      "timestamp": "2026-11-03 14:00:38",
+      "date": "2026-11-03",
+      "location": "United States",
+      "source": "Idealist.org",
+      "jobCount": 2194,
+      "weightedValue": 8.776
+    },
+    {
+      "timestamp": "2026-11-03 14:00:38",
+      "date": "2026-11-03",
+      "location": "United States",
+      "source": "LinkedIn",
+      "jobCount": 11000,
+      "weightedValue": 0.88
+    },
+    {
+      "timestamp": "2026-11-03 14:00:38",
+      "date": "2026-11-03",
+      "location": "United States",
+      "source": "Glassdoor",
+      "jobCount": null,
+      "weightedValue": 0.0
+    },
+    {
+      "timestamp": "2026-11-03 14:00:38",
+      "date": "2026-11-03",
+      "location": "United States",
+      "source": "VolunteerMatch",
+      "jobCount": 96589,
+      "weightedValue": 0.0241472
+    },
+    {
+      "timestamp": "2026-11-03 14:00:38",
+      "date": "2026-11-03",
+      "location": "United States",
+      "source": "Meta Ads Library - nonprofit",
+      "jobCount": 15000,
+      "weightedValue": 1.5
+    },
+    {
+      "timestamp": "2026-11-03 14:00:38",
+      "date": "2026-11-03",
+      "location": "United States",
+      "source": "Meta Ads Library - charity",
+      "jobCount": 44000,
+      "weightedValue": 4.4
+    },
+    {
+      "timestamp": "2026-11-03 14:00:38",
+      "date": "2026-11-03",
+      "location": "United States",
+      "source": "Meta Ads Library - donate",
+      "jobCount": 34000,
+      "weightedValue": 11.22
     }
   ],
   "scoreSummaries": [
@@ -36348,7 +36404,7 @@
       "date": "2026-11-01",
       "dailyScore": 26.264,
       "weeklyScore": 202.41665,
-      "monthlyScore": 52.116,
+      "monthlyScore": 78.892,
       "tier": "Critical",
       "tierNumber": 1,
       "percentile": 1.5
@@ -36356,23 +36412,32 @@
     {
       "date": "2026-11-02",
       "dailyScore": 25.852,
-      "weeklyScore": 25.852,
-      "monthlyScore": 52.116,
+      "weeklyScore": 52.628,
+      "monthlyScore": 78.892,
       "tier": "Crisis",
       "tierNumber": 1,
       "percentile": 1.0
+    },
+    {
+      "date": "2026-11-03",
+      "dailyScore": 26.776,
+      "weeklyScore": 52.628,
+      "monthlyScore": 78.892,
+      "tier": "Critical",
+      "tierNumber": 1,
+      "percentile": 1.5
     }
   ],
   "sourceBreakdown": [
     {
       "source": "Idealist.org",
-      "count": 2108,
-      "weightedValue": 8.432
+      "count": 2194,
+      "weightedValue": 8.776
     },
     {
       "source": "LinkedIn",
-      "count": null,
-      "weightedValue": 0.0
+      "count": 11000,
+      "weightedValue": 0.88
     },
     {
       "source": "Glassdoor",
@@ -36381,18 +36446,18 @@
     },
     {
       "source": "VolunteerMatch",
-      "count": 96746,
-      "weightedValue": 0.0241865
+      "count": 96589,
+      "weightedValue": 0.0241472
     },
     {
       "source": "Meta Ads Library - nonprofit",
-      "count": 14000,
-      "weightedValue": 1.4
+      "count": 15000,
+      "weightedValue": 1.5
     },
     {
       "source": "Meta Ads Library - charity",
-      "count": 48000,
-      "weightedValue": 4.8
+      "count": 44000,
+      "weightedValue": 4.4
     },
     {
       "source": "Meta Ads Library - donate",
